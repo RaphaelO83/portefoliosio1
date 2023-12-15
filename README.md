@@ -13,10 +13,10 @@ Objectifs:
 
 
    
-  - NetBeans: Environnement de développement intégré (IDE) utilisé pour ce projet 
-  - HTML: Language de description utilisé pour coucevoir les pages web
-  - CSS: Langage de style utilisé pour mettre en forme les pages web
-  - Bootstrap: Framework graphique utilisé pour faciliter la création de pages web ( utilisation d'une base de règles CSS existantes)
+- NetBeans: Environnement de développement intégré (IDE) utilisé pour ce projet 
+- HTML: Language de description utilisé pour coucevoir les pages web
+- CSS: Langage de style utilisé pour mettre en forme les pages web
+- Bootstrap: Framework graphique utilisé pour faciliter la création de pages web ( utilisation d'une base de règles CSS existantes)
 - Git: Logiciel de gestion de version
 - Github: Forge logicielle en ligne utilisant Git
 
