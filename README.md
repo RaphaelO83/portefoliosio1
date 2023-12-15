@@ -3,17 +3,12 @@ Objectifs:
 
 1. Mettre en oeuvre les technologies web pour crée et heberger mon portfolio
 
-<img src="https://github.com/RaphaelO83/portefoliosio1/assets/153281440/c6790089-ad7c-4d6f-aba2-0aba14d7ba45" width="96" 
-
-![1200px-Apache_NetBeans_Logo svg](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/c6790089-ad7c-4d6f-aba2-0aba14d7ba45)
-![logo HTML5](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/1eab808b-da5a-4494-b93c-13409d84353f)
-![CSS3_logo_and_wordmark svg](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/f52a317e-c0e6-4b9b-962d-41d0d5fea373)
-![Bootstrap_logo svg](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/adc8a9ff-ed9e-4893-9f28-3ad1f5b457f6)
-![Git-logo svg](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/a4ebf55c-dcb1-46e4-9028-770e70d48cd2)
-![GitHub-Mark](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/3691e001-a742-438e-a2bd-6e540727ed7a)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444pxApache_NetBeans_Logo.svg.png?20180920122700" width="96" height="110"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="116" height="130"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="96" height="130"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" width="120" height="110"><img src="https://github.com/RaphaelO83/portefoliosio1/assets/153281440/bf7cbd8a-64f2-4e36-8092-121e453def18" width="250" height="100"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" height="100">
 
 
-   
+
+   ![Git-logo svg]()
+
 - NetBeans: Environnement de développement intégré (IDE) utilisé pour ce projet 
 - HTML: Language de description utilisé pour coucevoir les pages web
 - CSS: Langage de style utilisé pour mettre en forme les pages web
