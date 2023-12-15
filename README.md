@@ -3,6 +3,7 @@ Objectifs:
 
 1. Mettre en oeuvre les technologies web pour crée et heberger mon portfolio
 
+<img src="https://github.com/RaphaelO83/portefoliosio1/assets/153281440/c6790089-ad7c-4d6f-aba2-0aba14d7ba45" width="96" 
 
 ![1200px-Apache_NetBeans_Logo svg](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/c6790089-ad7c-4d6f-aba2-0aba14d7ba45)
 ![logo HTML5](https://github.com/RaphaelO83/portefoliosio1/assets/153281440/1eab808b-da5a-4494-b93c-13409d84353f)
